@@ -1,6 +1,6 @@
 # Node & Express Demo App for Azure DevOps
 
-> Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
+> CI/CD Pipeline using Azure DevOps with this Demo App.
 
 [![Build Status](https://dev.azure.com/mdandan/NodeExpressDemo/_apis/build/status/mikedandan.node-express-azure?branchName=master)](https://dev.azure.com/mdandan/NodeExpressDemo/_build/latest?definitionId=6&branchName=master)
 
@@ -52,9 +52,14 @@ This walkthrough contains all the steps you should follow to fork this repo and 
 Mike Pfeiffer
 [@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
 
+### Co-Author
+
+Mike Dandan
+updates to core files and Azure Yaml file for deployment requirements
+
 ### Version
 
-1.0.0
+1.5.0
 
 ### License
 
